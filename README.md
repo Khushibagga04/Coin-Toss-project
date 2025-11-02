@@ -4,23 +4,34 @@ A simple project that simulates tossing a coin. The program randomly outputs “
 Features:
 
 -Simulates a fair coin toss
+
 -User-friendly interface (command line or GUI, as per your implementation)
+
 -Keeps track of the number of tosses and results (optional extension)
+
 -Great for beginners to practice coding and understand probability
 
 Concepts Used:
 
 -Random Number Generation
+
 -Conditional Statements
+
 -Variables
+
 -Loops (optional)
+
 -Input/Output (I/O)
+
 -Functions (optional)
+
 -Basic Probability
+
 
 How to Run:
 
 -Open "Cointossgame.c" in Turbo C++
+
 -Press 'Ctrl+F9' to compile and run
 
 Author-
